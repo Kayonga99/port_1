@@ -64,12 +64,12 @@ const projectPop = [
   },
   {
     name: 'Space travel Hub',
-    desc: 'This is a dummy website for company that provides commercial and scientific space travel sercises. This application will allow users to book rockets and join selected space missions.',
+    desc: 'This is a simbe react website for company that provides commercial and scientific space travel sercises. This application will allow users to book rockets and join selected space missions.',
     featuredImage: 'img/projects/spaceTravel/screenshot0.png',
     miniImg: ['img/projects/spaceTravel/screenshot.png', 'img/projects/spaceTravel/screenshot1.png', 'img/projects/spaceTravel/screenshot2.png', 'img/projects/spaceTravel/screenshot3.png'],
-    technologies: ['HTML/CSS', 'JavaScript', 'Flexbox', 'React'],
-    linkToLiveVersion: 'https://space-traveller.herokuapp.com/',
-    linkToSource: 'https://github.com/Ismailco/space-travel',
+    technologies: ['HTML/CSS', 'JavaScript', 'redux', 'React'],
+    linkToLiveVersion: 'https://space-travelers-mehdirh-kayonga99.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/Space--Travellers',
   },
   {
     name: 'Budget saver',
@@ -86,8 +86,8 @@ const projectPop = [
     featuredImage: 'img/projects/mathMagicians/preview0.png',
     miniImg: ['img/projects/mathMagicians/preview0.png', 'img/projects/mathMagicians/screenshot1.png', 'img/projects/mathMagicians/screenshot.png'],
     technologies: ['HTML/CSS', 'React', 'Javascript'],
-    linkToLiveVersion: 'https://mv-calculator.herokuapp.com',
-    linkToSource: 'https://github.com/Ismailco/math-magicians',
+    linkToLiveVersion: 'https://fancy-zuccutto-0837b6.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/Math-Magician',
   },
   {
     name: 'ToDo chrome extension',
@@ -122,8 +122,8 @@ const projectPop = [
     featuredImage: 'img/projects/leaderboard/preview0.png',
     miniImg: ['img/projects/leaderboard/screenshot1.png', 'img/projects/leaderboard/screenshot2.png', 'img/projects/leaderboard/screenshot3.png'],
     technologies: ['HTML/CSS', 'JavaScript', 'API', 'Flexbox'],
-    linkToLiveVersion: 'https://ismailco.github.io/Leaderboard/dist/',
-    linkToSource: 'https://github.com/Ismailco/Leaderboard',
+    linkToLiveVersion: 'https://shiny-travesseiro-4d513a.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/Leaderboard',
   },
   {
     name: 'Food App',
