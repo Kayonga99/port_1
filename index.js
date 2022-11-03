@@ -103,9 +103,9 @@ const projectPop = [
     desc: "This project was built with a Mobile-first design perspective and it's mobile responsive. In this project, we build a basic website that allows users to add/remove books from a list, using JavaScript objects and arrays. and dynamically modify the DOM and add basic events.",
     featuredImage: 'img/projects/bookList/preview0.png',
     miniImg: ['img/projects/bookList/preview0.png', 'img/projects/bookList/preview1.png', 'img/projects/bookList/preview2.png', 'img/projects/bookList/preview3.png'],
-    technologies: ['HTML/CSS', 'Javascript', 'Flexbox'],
+    technologies: ['HTML/CSS', 'Javascript', 'Bootstrap'],
     linkToLiveVersion: 'https://ismailco.github.io/Awesome-books_JavaScript-objects/',
-    linkToSource: 'https://github.com/Ismailco/Awesome-books_JavaScript-objects',
+    linkToSource: 'https://github.com/Kayonga99/Awesome-Books',
   },
   {
     name: 'To Do List with Webpack',
@@ -113,8 +113,8 @@ const projectPop = [
     featuredImage: 'img/projects/todoWebpack/preview0.png',
     miniImg: ['img/projects/todoWebpack/preview0.png', 'img/projects/todoWebpack/screenshot1.png', 'img/projects/todoWebpack/screenshot.png'],
     technologies: ['HTML/CSS', 'JavaScript', 'Flexbox', 'WebPack'],
-    linkToLiveVersion: 'https://ismailco.github.io/Todo-list-with-webpack/dist/',
-    linkToSource: 'https://github.com/Ismailco/Todo-list-with-webpack',
+    linkToLiveVersion: 'https://chimerical-brigadeiros-f435c0.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/ToDo-List',
   },
   {
     name: 'Leaderboard',
@@ -135,13 +135,13 @@ const projectPop = [
     linkToSource: 'https://github.com/Ismailco/ROR-GROUP-PROJECT',
   },
   {
-    name: 'Weather App',
-    desc: 'A Weather app created using React.js and Metaweather API. the app has the functionality to search any city in the world and get the weather data for the week.',
-    featuredImage: 'img/projects/weatherApp/screenshot0.png',
+    name: 'COVID-19-data-tracking',
+    desc: 'COVID-19-data-tracking is a project built using React and redux in this project information on the COVID-19 virus is being fetched from an API. This Application shows data on COVID-19 in European countries, the information is on COVID-19 cases, deaths, people tested etc.',
+    featuredImage: 'img/projects/weatherApp/screenshot.png',
     miniImg: ['img/projects/weatherApp/screenshot.png', 'img/projects/weatherApp/screenshot1.png', 'img/projects/weatherApp/screenshot2.png', 'img/projects/weatherApp/screenshot3.png'],
     technologies: ['HTML/CSS', 'React', 'JavaScript', 'Flexbox'],
-    linkToLiveVersion: 'https://mv-react-weather-app.herokuapp.com/',
-    linkToSource: 'https://github.com/Ismailco/weather-app',
+    linkToLiveVersion: 'https://relaxed-kheer-37635b.netlify.app/',
+    linkToSource: 'https://github.com/Kayonga99/COVID-19-data-tracking',
   },
 ];
 
