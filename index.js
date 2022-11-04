@@ -104,7 +104,7 @@ const projectPop = [
     featuredImage: 'img/projects/bookList/preview0.png',
     miniImg: ['img/projects/bookList/preview0.png', 'img/projects/bookList/preview1.png', 'img/projects/bookList/preview2.png', 'img/projects/bookList/preview3.png'],
     technologies: ['HTML/CSS', 'Javascript', 'Bootstrap'],
-    linkToLiveVersion: 'https://ismailco.github.io/Awesome-books_JavaScript-objects/',
+    linkToLiveVersion: 'https://peppy-salmiakki-893648.netlify.app/',
     linkToSource: 'https://github.com/Kayonga99/Awesome-Books',
   },
   {
